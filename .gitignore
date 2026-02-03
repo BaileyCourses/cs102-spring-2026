@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+## Backup/temporary files:
+*~
+.#*
+.SES
+
+## Editor/OS specific files (optional, can be added to a global gitignore instead):
+.DS_Store # macOS files
+.vscode/ # VS Code settings, if project-specific
